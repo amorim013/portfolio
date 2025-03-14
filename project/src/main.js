@@ -8,7 +8,7 @@ const projects = [
     description: 'Plataforma de venda de cursos online com sistema de pagamentos integrado, gestão de conteúdo e análise de métricas.',
     technologies: ['React', 'Node.js', 'PostgreSQL', 'Stripe', 'AWS'],
     url: 'https://github.com/amorim013/tarimfy',
-    demo: 'https://gregarious-tarsier-35d029.netlify.app/#cursos'
+    demo: 'https://gregarious-tarsier-35d029.netlify.app/'
   },
   {
     title: 'Sistema de Gestão para Pizzaria',
